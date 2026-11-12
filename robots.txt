@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://yassin1986.github.io/masari/sitemap.xml
